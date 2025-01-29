@@ -6,7 +6,7 @@
 - visdom 0.1.8.8
 - pillow 5.4.1
 ### Model
-Download the model via [google drive](https://drive.google.com/drive/folders/1cArO68kf6ok_qanRgrVU1mfJRsF5z7ak?usp=sharing) and put models into checkpoints dir.
+Download the model via [mega drive](https://mega.nz/file/qcZGQYCZ#h1ES1VhEYfE0taP3tnMWm9F201XeIIGkJ_UknGX1rFs) and put models into checkpoints dir.
 ### Train
 `$ sh ltrain.sh`
 ### Test
